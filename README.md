@@ -1,5 +1,5 @@
-1.Получаем и выводим весь список контактов в виде таблицы (console.table)
-https://monosnap.com/file/J18cR8RNKPielfSsShxGtd67j3yvBy
+1.Получаем и выводим весь список контактов в виде таблицы
+https://monosnap.com/file/5hKQrKUKz4eO0uh1kWTbN4Vy4HnUPb
 
 2. Получаем контакт по id
 https://monosnap.com/file/aZtQcY28ZaR1tQn4kciV3TY3d9gSzC
